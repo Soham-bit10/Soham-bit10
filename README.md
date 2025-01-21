@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soham-bit10
+- 👋 Hi, I’m Soham Tipnis
 - 👀 I’m interested in ...Learning and exploring 
 - 🌱 I’m currently learning ...Full-stack deve, frontend/backend and DevOps
 - 💞️ I’m looking to collaborate on ...internships and IT company as Fresher
